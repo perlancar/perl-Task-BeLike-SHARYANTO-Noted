@@ -18,7 +18,7 @@ They are categorized by functionalities/topics.
 
 Similar in functionality to L<Proc::PID::File>.
 
-=pkg Script::RunAlone
+=pkg Sys::RunAlone
 
 
 =head1 FAQ
