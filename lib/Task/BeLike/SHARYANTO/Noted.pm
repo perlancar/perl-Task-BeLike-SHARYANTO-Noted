@@ -20,4 +20,12 @@ Similar in functionality to L<Proc::PID::File>.
 
 =pkg Script::RunAlone
 
+
+=head1 FAQ
+
+=head2 Why don't you just favorite the module in MetaCPAN?
+
+I reserve that for modules which I like/use and would like to be installed on my
+Perl installations.
+
 =cut
